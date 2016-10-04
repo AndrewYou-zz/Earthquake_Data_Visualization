@@ -1,8 +1,8 @@
 #Andrew You README: 
 Concepts utilized in project: 
-1) Object oriented design: Abstract classes, inheritance (e.g. extends PApplet), overriding, overloading, polymorphism. 
-2) Understanding of Processing API, UnfoldingMaps API through their documentation. 
-3) Creating GUI to support user events (e.g. mouse interaction). 
+- Object oriented design: Abstract classes, inheritance (e.g. extends PApplet), overriding, overloading, polymorphism. 
+- Understanding of Processing API, UnfoldingMaps API through their documentation. 
+- Creating GUI to support user events (e.g. mouse interaction). 
 
 
 
