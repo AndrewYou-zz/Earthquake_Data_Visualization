@@ -7,8 +7,6 @@ Concepts utilized in project:
 
 
 #Coursera README: 
-
-unfolding_app_template and UC San Diego/Coursera MOOC starter code
 ==================================================================
 
 This is a skeleton to use Unfolding in Eclipse as well as some starter
